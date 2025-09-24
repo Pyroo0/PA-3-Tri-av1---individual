@@ -1,0 +1,43 @@
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\PA 3 Tri av1 - individual.exe
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\PA 3 Tri av1 - individual.deps.json
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\PA 3 Tri av1 - individual.runtimeconfig.json
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\PA 3 Tri av1 - individual.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\PA 3 Tri av1 - individual.pdb
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA_3_Tri_av1___individual.Form1.resources
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA_3_Tri_av1___individual.MenuPrincipal.resources
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA 3 Tri av1 - individual.csproj.GenerateResource.cache
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA 3 Tri av1 - individual.GeneratedMSBuildEditorConfig.editorconfig
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA 3 Tri av1 - individual.AssemblyInfoInputs.cache
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA 3 Tri av1 - individual.AssemblyInfo.cs
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA 3 Tri av1 - individual.csproj.CoreCompileInputs.cache
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA 3 Tri av1 - individual.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\refint\PA 3 Tri av1 - individual.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA 3 Tri av1 - individual.pdb
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA 3 Tri av1 - individual.genruntimeconfig.cache
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\ref\PA 3 Tri av1 - individual.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA_3_Tri_av1___individual.Form2.resources
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA_3_Tri_av1___individual.FormSharedValues.resources
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA_3_Tri_av1___individual.MenuCadastro.resources
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA_3_Tri_av1___individual.FormFinanceiro.resources
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA_3_Tri_av1___individual.FormFuncionario.resources
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA_3_Tri_av1___individual.FormProduto.resources
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA 3 Tri av1 - individual.csproj.AssemblyReference.cache
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA 3 Tri.6E4F3A60.Up2Date
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\programasTecnico\PA 3 Tri av1 - individual\obj\Debug\net8.0-windows\PA 3 Tri av1 - individual.csproj.ResolveComReference.cache
